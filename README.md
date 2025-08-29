@@ -180,9 +180,7 @@ The key target quality specifications generally include:
 1.  **Intended End-Use Application:** Clarify the specific market or product applications for the recycled HDPE pellets to define precise MFI, color, and mechanical property targets.
 2.  **Contaminant Removal Strategies:** Based on the intended application, identify any advanced sorting or purification steps (beyond standard washing) that might be necessary to meet strict contaminant limits, especially for food-grade or sensitive packaging.
 3.  **Market Price for rHDPE:** Provide estimated market prices for rHDPE pellets corresponding to different quality tiers (e.g., natural color, specific MFI, low odor) to inform the economic viability of meeting higher specifications."
-Enter your response: ----------------------------------------------------------------------
-User:
-Recycle 20 tons/day of mixed PP and LDPE packaging with max emissions 3 tons CO₂/day.
+
 ----------------------------------------------------------------------
 User: Recycle 20 tons/day of mixed PP and LDPE packaging with max emissions 3 tons CO₂/day.
 ----------------------------------------------------------------------

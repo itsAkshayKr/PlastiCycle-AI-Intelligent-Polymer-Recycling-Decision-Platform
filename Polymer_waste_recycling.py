@@ -12,7 +12,7 @@ load_dotenv()
 
 async def team_Config(plastic_type="PET Bottles, 10 tons/day, no constraints"):
 
-    model_client = OpenAIChatCompletionClient(model="gemini-2.5-flash",api_key='AIzaSyA96RLD5q4zFnBcN4Qg3qCELIzlzcX9z4s') #Enter you API key from Gemini
+    model_client = OpenAIChatCompletionClient(model="gemini-2.5-flash",api_key='') #Enter you API key from Gemini
 
     # Defining our Agent
     # 1. User Agent
